@@ -1,0 +1,15 @@
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\bin\Debug\net6.0\jenkinsDevopsTesting.deps.json
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\bin\Debug\net6.0\jenkinsDevopsTesting.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\bin\Debug\net6.0\jenkinsDevopsTesting.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.csproj.AssemblyReference.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.AssemblyInfoInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.AssemblyInfo.cs
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.csproj.CoreCompileInputs.cache
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.csproj.CopyComplete
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\refint\jenkinsDevopsTesting.dll
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\jenkinsDevopsTesting.pdb
+C:\Users\akshaykumar10\OneDrive - Nagarro\Desktop\jenkinsDevops\jenkinsDevopsTesting\obj\Debug\net6.0\ref\jenkinsDevopsTesting.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ttQR+2HBrWIgMqPo6YVoGfdPsx+PyTr9wG5+rAEB6qQ=",
+  "Source": "jenkinsDevops",
+  "BasePath": "_content/jenkinsDevops",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

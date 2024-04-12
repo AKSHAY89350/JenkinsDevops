@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBEubZaiAjwA34VCtnrEbey/v3WbI/1Ek4QjMToTBzKv1XwredVy4lfM+2pMYmoZ82UqeDTo9kC7ssBxabJBrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akshaykumar10\\OneDrive - Nagarro\\Desktop\\jenkinsDevops\\jenkinsDevopsTesting\\jenkinsDevopsTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akshaykumar10\\.nuget\\packages\\mstest.testframework\\3.3.1\\mstest.testframework.3.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
