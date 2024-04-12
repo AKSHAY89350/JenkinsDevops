@@ -14,7 +14,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh 'dotnet build jenkinsDevops/aspnetcore2.csproj --configuration Release'
+                sh 'dotnet build jenkinsDevops/jenkinsDevops.csproj --configuration Release'
             }
         }
 
